@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manavlathiya/Leetcode/tree/master/0268-missing-number) |
+| [0735-asteroid-collision](https://github.com/Manavlathiya/Leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Manavlathiya/Leetcode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Manavlathiya/Leetcode/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Manavlathiya/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
